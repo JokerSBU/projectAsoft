@@ -1,5 +1,6 @@
 <?php
 echo "Hello world";
-spam
-dsgsdg
+$spam;
+$dsgsdg;
+$Ветка;
 ?>
